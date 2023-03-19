@@ -1,0 +1,9 @@
+import './collapse';
+import './input';
+import './radio';
+import './select';
+import './switch';
+import './table';
+import './tabs';
+import './textarea';
+import './upload';
