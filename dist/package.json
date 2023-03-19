@@ -1,6 +1,6 @@
 {
   "name": "cypress-antd-commands",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports custom commands Cypress for antdesign",
   "main": "index.js",
   "directories": {
